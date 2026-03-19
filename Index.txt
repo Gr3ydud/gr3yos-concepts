@@ -8,20 +8,13 @@ Downloads
 ---------
 
 [1] Desktop Edition (Gr3yOS)
-    curl -O https://Gr3ydud.github.io/gr3yos-site/gr3yos-latest.iso STATUS: unreleased and bugtesting
+    curl -O https://Gr3ydud.github.io/gr3yos-site/links.txt STATUS: unreleased and bugtesting
 
 [2] Server Edition (Gr3yscale)
-    curl -O https://Gr3ydud.github.io/gr3yos-site/gr3yscale-latest.iso STATUS: unreleased
+    curl -O https://Gr3ydud.github.io/gr3yos-site/links.txt STATUS: unreleased
 
 [3] Optional Testing Tools
-    curl -O https://Gr3ydud.github.io/gr3yos-site/gr3y-testkit STATUS: WORKING ON IT
-
-Checksums
-----------
-Verify downloads with:
-
-curl -O https://Gr3ydud.github.io/gr3yos-site/releases/SHA256SUMS
-sha256sum -c SHA256SUMS
+    curl -O https://Gr3ydud.github.io/gr3yos-site/links.txt STATUS: WORKING ON IT
 
 Notes
 -----
@@ -30,8 +23,9 @@ Notes
 - Modular
 - Experimental builds may have bugs
 - Recommended for users familiar with Linux
+- i am one person, do not expect a perfectly kept OS.
 
 CLI Users
 ---------
 Use 'curl' or 'wget' to download files.
-No browser required.
+No browser required, though a browser is reccommended.

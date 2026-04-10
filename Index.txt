@@ -10,8 +10,8 @@ Downloads
 [1] Desktop Edition (Gr3yOS)
     curl -O https://Gr3ydud.github.io/gr3yos-site/links.txt STATUS: unreleased and bugtesting
 
-[2] Server Edition (Gr3yscale)
-    curl -O https://Gr3ydud.github.io/gr3yos-site/links.txt STATUS: unreleased
+[2] firmware (Gr3yscale)
+    curl -O https://Gr3ydud.github.io/gr3yscale/links.txt STATUS: unreleased
 
 [3] Optional Testing Tools
     curl -O https://Gr3ydud.github.io/gr3yos-site/links.txt STATUS: WORKING ON IT

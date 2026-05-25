@@ -14,7 +14,7 @@ Downloads
     curl -O https://Gr3ydud.github.io/gr3yscale/links.txt STATUS: unreleased
 
 [3] Optional Testing Tools
-    curl -O https://Gr3ydud.github.io/gr3yos-site/links.txt STATUS: WORKING ON IT
+    curl -O https://Gr3ydud.github.io/gr3yos-site/links.txt STATUS: indev
 
 Notes
 -----
@@ -23,7 +23,7 @@ Notes
 - Modular
 - Experimental builds may have bugs
 - Recommended for users familiar with Linux
-- i am one person, do not expect a perfectly kept OS.
+- i am one person, do not expect a perfectly kept, spotless OS.
 
 CLI Users
 ---------

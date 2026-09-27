@@ -1,7 +1,7 @@
 GR3YOS 0.01 BETA
-[FILES]
+[FILE-MAN]
 [TERMINAL]
-[GR3YCTL]
+[APPLICATIONS]
 [SETTINGS]
 [DEBUG]
 
@@ -22,4 +22,4 @@ GR3YOS 0.01 BETA
 
                
 -----------------------------------------------------------------------------------------
-[POWER OPTIONS][][MM/DD/HH/MM]
+[POWER DETAILS(battery)][][MM/DD/HH/MM]
